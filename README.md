@@ -1,2 +1,2 @@
 # Time-Series-Project
-Poject on ARIMA
+Project on ARIMA
